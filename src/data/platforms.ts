@@ -1,4 +1,8 @@
-export default [
+export default {
+  "count": 14,
+  "next": null,
+  "previous": null,
+  "results": [
     {
       "id": 1,
       "name": "PC",
@@ -607,4 +611,5 @@ export default [
         }
       ]
     }
-  ];
+  ]
+};
